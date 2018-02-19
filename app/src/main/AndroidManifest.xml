@@ -28,6 +28,8 @@
 
         <activity android:name=".PrefsActivity" android:label="@string/preferences">
         </activity>
+
+        <activity android:name=".SetLocationActivity" android:label="Setlocation" />
     </application>
 
 </manifest>

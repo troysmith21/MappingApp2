@@ -2,4 +2,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/choosemap" android:title="@string/choosemap"/>
     <item android:title="@string/preferences" android:id="@+id/preferences"/>
+    <item android:title="Set Location" android:id="@+id/setlocation"/>
 </menu>
