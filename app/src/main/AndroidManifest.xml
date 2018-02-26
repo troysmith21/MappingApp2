@@ -29,7 +29,14 @@
         <activity android:name=".PrefsActivity" android:label="@string/preferences">
         </activity>
 
-        <activity android:name=".SetLocationActivity" android:label="Setlocation" />
-    </application>
+        <activity android:name=".SetLocationActivity" android:label="Setlocation" >
+        </activity>
+
+
+       <activity android:name=".ExampleListActivity" android:label="MapList" >
+       </activity>
+
+</application>
+
 
 </manifest>

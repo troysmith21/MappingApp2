@@ -9,6 +9,8 @@
     <string name="selectmap">Select Map</string>
     <string name="preferences">Preferences</string>
     <string name="setlocation">Set Location</string>
+    <string name="MapList">Set Location</string>
+
 
 
 </resources>
